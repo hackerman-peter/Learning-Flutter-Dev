@@ -2,7 +2,24 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/dicee-flutter-master/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dicee-flutter-master/build" />
+      <excludeFolder url="file://$MODULE_DIR$/i_am_poor/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/i_am_poor/build" />
+      <excludeFolder url="file://$MODULE_DIR$/i_am_rich/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/i_am_rich/build" />
+      <excludeFolder url="file://$MODULE_DIR$/magic-8-ball-flutter-master/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/magic-8-ball-flutter-master/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mi_card_flutter2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mi_card_flutter2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/quizzler-flutter-master/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/quizzler-flutter-master/build" />
+      <excludeFolder url="file://$MODULE_DIR$/testing_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/testing_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone-flutter-master/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone-flutter-master/build" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
